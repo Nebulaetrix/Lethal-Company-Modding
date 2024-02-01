@@ -1,2 +1,2 @@
 ## Lethal Company Modding Knowledge Repo
-Test push text
+This repo is used to hold info about all things related to [[Modding|modding]] lethal company, albeit visual or functional, you name it!
