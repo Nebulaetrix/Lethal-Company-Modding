@@ -13,7 +13,7 @@ LANDING_PAGE = "./home.md"
 LANDING_TITLE = "Lethal Company Modding Wiki"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
-REPO_URL = "https://github.com/ppeetteerrs/obsidian-zola"
+REPO_URL = "https://github.com/Nebulaetrix/lcmoddingwiki.github.io"
 # (Optional) Site title in navbar
 SITE_TITLE = "LC Modding Wiki"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
