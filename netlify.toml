@@ -19,7 +19,7 @@ SITE_TITLE = "LC Modding Wiki"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = "https://app.netlify.com/sites/lc-modding-wiki"
+SITE_URL = "https://lc-modding-wiki.netlify.app"
 # (Optional) Site Timezone
 TIMEZONE = "Asia/Hong_Kong"
 ZOLA_VERSION = "0.15.2"
