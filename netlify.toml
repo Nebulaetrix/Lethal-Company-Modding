@@ -8,7 +8,7 @@ LANDING_BUTTON = "Home"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = ""
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "./docs/Home.md"
+LANDING_PAGE = "./Home.md"
 # (Optional) Site title on landing page
 LANDING_TITLE = "Lethal Company Modding Wiki"
 PYTHON_VERSION = "3.8"
