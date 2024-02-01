@@ -11,4 +11,4 @@ The [[Manifest]] is structured like below:
 	]
 }```
 
-This is placed in the top level of the [[Mod File Hierarchy]].
+This is placed in the top level of the File hierarchy, located in the [[Publishing]] section
