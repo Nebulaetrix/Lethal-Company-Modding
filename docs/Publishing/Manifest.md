@@ -1,4 +1,4 @@
-The [[Manifest]] is structured like below:
+The manifest.json is structured like below:
 ```json
 {
 "name": "ModName",

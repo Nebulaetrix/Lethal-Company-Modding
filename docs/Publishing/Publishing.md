@@ -1,4 +1,4 @@
-To publish a mod on Thunderstore, you must use the .zip format.
+To publish a mod on [Thunderstore](https://thunderstore.io/c/lethal-company/), you must use the .zip format.
 At the top level, the zip must contain:
 - ModName.dll
 - icon.png
