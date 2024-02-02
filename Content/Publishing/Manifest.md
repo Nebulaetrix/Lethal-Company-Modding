@@ -9,6 +9,7 @@ The manifest.json is structured like below:
 	"LethalAPI-1.0.0",
 	"BepInEx-BepInExPack-5.4.2100"
 	]
-}```
+}
+```
 
 This is placed in the top level of the File hierarchy, located in the [[Publishing]] section

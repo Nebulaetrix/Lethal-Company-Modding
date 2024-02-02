@@ -4,4 +4,4 @@ Various different types of mods can be developed, namely:
 - [[Sound]]
 - [[Models]]
 - [[UI]]
-- [[Code]]
+- [[Code Mods]]
