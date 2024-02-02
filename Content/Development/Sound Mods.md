@@ -1,0 +1,1 @@
+Sound replacement mods use [[CustomSounds]] and [[LCSoundTool]] while sound addition mods have to be done manually

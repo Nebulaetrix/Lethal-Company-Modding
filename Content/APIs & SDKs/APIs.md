@@ -1,4 +1,10 @@
 Lethal Company sprawls multiple modding APIs, knowledge on them can be found on their wiki or here:
-- [[LC API]]
-- [[LethalExpansion]]
-- [[LethalLib]]
+- [[LC API]] by [2018](https://thunderstore.io/c/lethal-company/p/2018/)
+- [[LethalExpansion]] by [HolographicWings](https://thunderstore.io/c/lethal-company/p/HolographicWings/)
+- [[LethalLib]] by [Evaisa](https://thunderstore.io/c/lethal-company/p/Evaisa/)
+- [[HookGenPatcher]] by [Evaisa](https://thunderstore.io/c/lethal-company/p/Evaisa/)
+- [[LCSoundTool]] by [no00ob](https://thunderstore.io/c/lethal-company/p/no00ob/)
+- [[LethalCompany InputUtils]] by [Rune580](https://thunderstore.io/c/lethal-company/p/Rune580/)
+- [[More Suits]] by [x753](https://thunderstore.io/c/lethal-company/p/x753/)
+- [[LethalEmotesAPI]] by [Gemumoddo](https://thunderstore.io/c/lethal-company/p/Gemumoddo/)
+- [[CustomSounds]] by [Clementinise](https://thunderstore.io/c/lethal-company/p/Clementinise/)
