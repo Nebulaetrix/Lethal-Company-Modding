@@ -21,7 +21,7 @@ SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
 SITE_URL = "https://lc-modding-wiki.netlify.app"
 # (Optional) Site Timezone
-TIMEZONE = "Asia/Hong_Kong"
+TIMEZONE = "Europe/London"
 ZOLA_VERSION = "0.15.2"
 # (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
 SORT_BY = "title"
@@ -33,6 +33,8 @@ SLUGIFY = "y"
 HOME_GRAPH = "y"
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
 PAGE_GRAPH = "y"
+# (Optional, default false) Clicking on graph link replaces current tab. Put "y" to enable.
+GRAPH_LINK_REPLACE = "y"
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = ""
 # (Optional, default blank) Additional footer content.
@@ -74,3 +76,23 @@ GRAPH_OPTIONS = """
         	},
         }
 """
+[[plugins]]
+package = "netlify-plugin-submit-sitemap"
+
+[plugins.inputs]
+
+# The base url of your site (optional, default = main URL set in Netlify)
+baseUrl = "https://lc-modding-wiki.netlify.app"
+
+# Path to the sitemap URL (optional, default = /sitemap.xml)
+sitemapPath = "/sitemap.xml"
+
+# Time in seconds to not submit the sitemap after successful submission
+ignorePeriod = 0
+
+# Enabled providers to submit sitemap to (optional, default = 'google', 'bing', 'yandex'). Possible providers are currently only 'google', 'bing', 'yandex'.
+providers = [
+  "google",
+  "bing",
+  "yandex",
+]
