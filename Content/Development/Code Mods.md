@@ -1,8 +1,8 @@
 Mods that manipulate and add code are the base of most other mods
 ## Developing with Template
 ---
-If developing a mod from the BepInEx 5 template, you can find your mod details in the `PluginInfo.cs` file.\
-Upon creation of a solution using the template, it should automatically create this file with the details provided in the solution creation panel.\
+If developing a mod from the BepInEx 5 template, you can find your mod details in the `PluginInfo.cs` file.
+Upon creation of a solution using the template, it should automatically create this file with the details provided in the solution creation panel.
 ```cs
 namespace ModName
 {
@@ -14,10 +14,10 @@ namespace ModName
     }
 }
 ```
-This file usually doesn't need to be altered and generally, the `PLUGIN_GUID` and `PLUGIN_NAME` will stay the same unless it's an exception.\
+This file usually doesn't need to be altered and generally, the `PLUGIN_GUID` and `PLUGIN_NAME` will stay the same unless it's an exception.
 ## Developing without Template
 ---
-Gio text here\
+Gio text here
 ## General Structure
 ---
 `Plugin.cs`
