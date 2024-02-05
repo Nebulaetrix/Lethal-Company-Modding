@@ -4,7 +4,7 @@ At the top level of the hierarchy, the zip must contain:
 - icon.png
 - [[Manifest|manifest.json]]
 It may also have:
-- [[README(Modding)|README.md]]
+- [[Repo/Content/Modding/Publishing/README|README.md]]
 - CHANGELOG.md
 - [[Asset Bundles]]
 
