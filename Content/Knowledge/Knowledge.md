@@ -1,6 +1,5 @@
 Game info on:
 - [[Weathers]]
 - [[Moons]]
-- [[Enemies]]
+- [[Entities]]
 - [[Scrap]]
-- 

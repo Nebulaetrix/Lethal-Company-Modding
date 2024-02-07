@@ -1,0 +1,22 @@
+Daytime:
+- [[Roaming Locusts]]
+- [[Circuit Bees]]
+- [[Manticoils]]
+Outdoor:
+- [[Eyeless Dogs]]
+- [[Forest Giants]]
+- [[Earth Leviathan]]
+- [[Baboon Hawk]]
+Indoor:
+- [[Bracken]]
+- [[Spore Lizard]]
+- [[Hoarding Bug]]
+- [[Nutcracker]]
+- [[Masked]]
+- [[Snare Flea]]
+- [[Hygrodere]]
+- [[Bunker Spider]]
+- [[Ghost Girl]]
+- [[Thumper]]
+- [[Coil-Head]]
+- [[Jester]]

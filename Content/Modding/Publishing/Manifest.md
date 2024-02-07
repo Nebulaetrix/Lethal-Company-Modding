@@ -1,3 +1,9 @@
+The manifest is used by Thunderstore to obtain information about your mod:
+- The `name` and `version_number` is self explanatory
+- The `website_url` is usually used to provide a link to a Github repo, it can left blank by putting `""`
+- The `description` is what is displayed below the mod - the red box pictured here
+- ![[Mod Description.png]]
+- And the `dependencies` are other APIs and SDKs that the mod relies on
 The manifest.json is structured like below:
 ```json
 {
